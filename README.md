@@ -1,5 +1,5 @@
 <Html>
-<p>This is a Decentralized File Storage System in which You can do 3 operations :</p>
+<p>This is a <b>Decentralized File Storage System</b> in which You can perform 3 operations :</p>
 <p>
 <ol>
 <li>Upload file</li>
@@ -17,7 +17,13 @@
 </ul>
 </p>
 
-<p>Note: Check the compatibility of file uploaded with pinata before uploading it</p>
+<p>Note: Check the compatibility of file uploaded with pinata before uploading it.
+</p>
 
-<p>Moreover, there is need to work on Front-End part and to improve small bugs but yaa this is my First DApp that I made</p>
+<p>Moreover, there is need to work on Front-End part and to improve small bugs but yaa this is my First DApp that I made</p><br>
+
+<p><h3>Webapp</h3> Deployed on the link : https://gourav-04.github.io/Decentralized-File-Storage/ <br><br>
+Note : &nbsp;Firstly, You have Metamask wallet configured with an account running on Sepolia Testnet and obviously the account must have some test ethers.</h3><br>
+For free test ethers, you can refer - https://faucets.chain.link/
+</p>
 </html>
