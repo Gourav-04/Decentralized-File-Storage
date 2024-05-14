@@ -1,0 +1,47 @@
+  .getBlock {
+      margin-top: 80px;
+  }
+
+  .button {
+      background-color: initial;
+      background-image: linear-gradient(-180deg, #009ffd, #2a2a72);
+      border-radius: 6px;
+      color: #ffffff;
+      padding: 5px 10px;
+      border: none;
+      font-size: 16px;
+      border-radius: 5px;
+      margin: 10px;
+      padding-bottom: 10px;
+  }
+
+  .button:hover {
+      box-shadow: rgba(253, 76, 0, 0.5) 0 3px 8px;
+  }
+
+  input[type="number"]:focus {
+      background-color: lightblue;
+  }
+
+  .get {
+      margin-top: 5px;
+      margin-bottom: 0px;
+      font-size: 1.4rem;
+      font-weight: bold;
+      color: rgb(227, 40, 102);
+      text-decoration-line: underline;
+  }
+
+  .download{
+    position: fixed;
+    margin-left: -120px;
+  }
+
+
+  .link{
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #1bf014;
+    text-decoration-line:underline ;
+    display: none;
+  }
