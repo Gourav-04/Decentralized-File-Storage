@@ -23,7 +23,7 @@
 <p>Moreover, there is need to work on Front-End part and to improve small bugs but yaa this is my First DApp that I made</p><br>
 
 <p><h3>Webapp</h3> Deployed on the link : https://gourav-04.github.io/Decentralized-File-Storage/ <br><br>
-Note : &nbsp;Firstly, You have Metamask wallet configured with an account running on Sepolia Testnet and obviously the account must have some test ethers.</h3><br>
+Note : &nbsp;Firstly, You have to configure a Metamask wallet with an account running on Sepolia Testnet and obviously the account must have some test ethers.</h3><br>
 For free test ethers, you can refer - https://faucets.chain.link/
 </p>
 </html>
